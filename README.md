@@ -13,7 +13,13 @@ Project K.I.F. introduces a new layer of AI-driven self-discipline architecture 
 The system is designed to observe, adapt, and enhance user behavior through movement-based feedback loops, automating personal growth metrics and task alignment.
 
 ⸻
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Andrew-Davis-Ai-portfolio/Project-KIF-The-Kinetic-Intelligence-Framework/main/9E88C0F3-4795-4169-9E56-68111A4E1B02.PNG" 
+       alt="Project K.I.F. Banner" width="100%">
+  <br><br>
+  <img src="https://raw.githubusercontent.com/Andrew-Davis-Ai-portfolio/Project-KIF-The-Kinetic-Intelligence-Framework/main/1C142F6B-37EC-4396-8755-C7B4C83FCED1.png"
+       alt="Project K.I.F. Development Roadmap" width="100%">
+</p>
 ⚔️ Core Concepts
 	•	Rei — The AI Avatar of Discipline
 Your virtual coach modeled after the Business Samurai — focused, analytical, precise.

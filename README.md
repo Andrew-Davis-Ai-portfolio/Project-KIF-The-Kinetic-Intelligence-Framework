@@ -136,6 +136,6 @@ where human rhythm and machine logic merge to create adaptive excellence.
 
 > “Perfection isn’t speed — it’s precision repeated until motion becomes memory.” ⚙️🔥
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Andrew-Davis-Ai-portfolio/Project-KIF-The-Kinetic-Intelligence-Framework/main/assets/KIF_Roadmap.png" alt="Project K.I.F. Roadmap" width="100%">
+  <img src="https://raw.githubusercontent.com/Andrew-Davis-Ai-portfolio/Project-KIF-The-Kinetic-Intelligence-Framework/main/02FF0307-8449-4F78-B1D0-07060AE69825.png" alt="Project K.I.F. Development Roadmap" width="100%">
 </p>
 

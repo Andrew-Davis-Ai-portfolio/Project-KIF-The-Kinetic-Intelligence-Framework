@@ -135,3 +135,6 @@ Project K.I.F. represents the next frontier of applied discipline —
 where human rhythm and machine logic merge to create adaptive excellence.
 
 > “Perfection isn’t speed — it’s precision repeated until motion becomes memory.” ⚙️🔥
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Andrew-Davis-Ai-portfolio/Project-KIF-The-Kinetic-Intelligence-Framework/main/assets/KIF_Roadmap_Banner.png" alt="Project K.I.F. Roadmap" width="100%">
+</p>

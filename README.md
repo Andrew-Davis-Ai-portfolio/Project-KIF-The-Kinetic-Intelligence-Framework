@@ -1,7 +1,11 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Andrew-Davis-Ai-portfolio/Project-KIF-The-Kinetic-Intelligence-Framework/main/<your_banner_filename>.png" 
-  alt="Flame Division | Command Edition v1.5" width="100%">
+p align="center">
+  <img src="https://raw.githubusercontent.com/Andrew-Davis-Ai-portfolio/Project-KIF-The-Kinetic-Intelligence-Framework/main/CDE8979B-43D3-49A0-990A-D932FCCCE0C6.png" 
+  alt="Flame Division | Command Edition v1.5 Banner" width="100%">
 </p>
+
+<h1 align="center">⚙️ Project K.I.F. — The Kinetic Intelligence Framework</h1>
+<h3 align="center">Flame Division | Command Edition v1.5</h3>
+<p align="center"><em>"Execution becomes ecosystem."</em></p>
 # Project-KIF-The-Kinetic-Intelligence-Framework
 A kinetic AI discipline engine — where motion meets mastery. Rei, the Business Samurai, trains precision, focus, and execution through data-driven flow. ⚔️🔥
 ⚙️ Project K.I.F. — The Kinetic Intelligence Framework

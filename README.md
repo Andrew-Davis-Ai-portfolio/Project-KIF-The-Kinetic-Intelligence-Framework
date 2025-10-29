@@ -138,4 +138,6 @@ where human rhythm and machine logic merge to create adaptive excellence.
 <p align="center">
   <img src="https://raw.githubusercontent.com/Andrew-Davis-Ai-portfolio/Project-KIF-The-Kinetic-Intelligence-Framework/main/02FF0307-8449-4F78-B1D0-07060AE69825.png" alt="Project K.I.F. Development Roadmap" width="100%">
 </p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Andrew-Davis-Ai-portfolio/Project-KIF-The-Kinetic-Intelligence-Framework/main/A_digital_graphic_design_image_titled_%22DEVELOPMENT.png" alt="Project K.I.F. Phase IV — Leadership & Deployment Command" width="100%">
+</p>
